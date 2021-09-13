@@ -1,2 +1,2 @@
-# GitpodPython
-Coding club scripts for using Gitpod to write Python code on Chromebooks, without knowledge of Git
+# GitpodTemplate
+Coding club scripts for using Gitpod to write code on Chromebooks, without knowledge of Git
